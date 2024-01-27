@@ -23,3 +23,8 @@ If you learn one thing properly from this course, make it linear algebra.
 6. Optimisation theory
 
 At the end of this course, we will combine the knowledge we gained from learning all these to solving real life problems.
+
+# How to Use this Repository:
+Feel free to explore the code snippets, resources, and additional materials provided in this GitHub repository. Whether you're following along with the video series or using this as a standalone resource, we hope this collection will inspire and deepen your understanding of complex systems.
+
+Let's Dive In!
